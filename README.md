@@ -59,4 +59,4 @@ Bu repo, Python programlama diline dair öğretici bir video serisinin içeriği
 
 1. Bu projeyi bilgisayarınıza klonlamak için aşağıdaki komutu kullanabilirsiniz:
    ```bash
-   git clone https://github.com/yourusername/python-tutorial.git
+   git clone https://github.com/fatihbugraayar/pythonegitimyt.git
