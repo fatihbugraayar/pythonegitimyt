@@ -1,0 +1,44 @@
+Python temel düzeyde takıla bileceğiniz kurs içeriğindeki eksik kısımlar:
+
+1. **Fonksiyonların Parametrelerine Varsayılan Değerler Verme**:
+   - Fonksiyonların parametrelerine varsayılan değerler nasıl atanır?
+   - Varsayılan değerlerin hangi durumlarda kullanılması gerekir?
+   
+2. **Lambda Fonksiyonları**:
+   - Lambda fonksiyonları nedir ve ne amaçla kullanılır?
+   - Lambda fonksiyonlarının avantajları ve kullanım örnekleri nelerdir?
+
+3. **Liste İfadeleri (List Comprehensions)**:
+   - List comprehension nedir ve nasıl çalışır?
+   - Liste ifadeleri ile geleneksel döngüler arasındaki farklar nelerdir?
+   
+4. **Enum (Sınıflar ve Sabitler)**:
+   - Python'da Enum sınıfı nasıl tanımlanır?
+   - Enum sınıfları ve sabitler ne zaman kullanılır?
+
+5. **Dosya İşlemleri**:
+   - Python'da dosya okuma ve yazma işlemleri nasıl yapılır?
+   - `with` ifadesi ile dosya işlemlerinin yönetilmesi ve avantajları nelerdir?
+
+6. **Hata Yönetimi (try-except)**:
+   - `try-except` blokları nasıl kullanılır ve hata yönetimi nasıl yapılır?
+   - `else` ve `finally` bloklarının kullanımı ve farkları nedir?
+   
+7. **Dekoratörler**:
+   - Python'da dekoratörler nedir?
+   - Fonksiyonel programlamada dekoratörlerin nasıl kullanıldığını açıklayın.
+
+8. **Yinelenebilir Yapılar (Iterable) ve Generatörler**:
+   - Generator nedir ve nasıl oluşturulur?
+   - `yield` anahtar kelimesinin kullanımı ve avantajları nelerdir?
+   - Generator ile ilgili örnekler verin.
+
+Aşağıdaki unsurlar her bir başlık için dökümanda yer almalı:
+- Konunun teorik açıklaması.
+- Konuya dair örnek kodlar.
+- Kodların açıklamalı yorumları.
+- Konunun nerelerde ve hangi durumlarda kullanıldığını belirten pratik açıklamalar.
+  
+Yukarıdaki konular için detaylı ve öğretici bir döküman hazırlayın. 
+Unutmayın ki Albert Einsten'ın dediği gibi Eğer bir şeyi 6 yaşındaki bir çocuğa anlatamıyorsanız,
+siz de anlamamışsınız demektir. bu tarz bi döküman hazırlamak sizin için pekiştirme açısından iyi olacaktır.
